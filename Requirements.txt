@@ -1,0 +1,5 @@
+Pandas Version-2.2.2
+NumPy Version-1.26.4
+Seaborn Version-0.13.2
+Streamlit Version-1.34.0
+Matplotlib Version-3.8.4	
